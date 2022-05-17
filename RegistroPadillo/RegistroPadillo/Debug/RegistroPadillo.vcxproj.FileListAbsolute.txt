@@ -1,0 +1,6 @@
+C:\Users\RaulO\source\repos\RegistroPadillo\Debug\RegistroPadillo.exe.config
+C:\Users\RaulO\source\repos\RegistroPadillo\RegistroPadillo\Debug\RegistroPadillo.vcxproj.AssemblyReference.cache
+C:\Users\RaulO\source\repos\RegistroPadillo\RegistroPadillo\Debug\RegistroPadillo.exe.config
+C:\Users\RaulO\source\repos\RegistroPadillo\RegistroPadillo\Debug\RegistroPadillo.home.resources
+C:\Users\RaulO\source\repos\RegistroPadillo\RegistroPadillo\Debug\RegistroPadillo.vcxproj.GenerateResource.cache
+C:\Users\RaulO\source\repos\RegistroPadillo\RegistroPadillo\Debug\RegistroPadillo.vcxproj.CopyComplete
